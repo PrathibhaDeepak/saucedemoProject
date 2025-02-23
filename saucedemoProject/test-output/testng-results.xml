@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="29" passed="29" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-22T17:40:11 CST" name="Suite" finished-at="2025-02-22T17:42:35 CST" duration-ms="144421">
+    <groups>
+    </groups>
+    <test started-at="2025-02-22T17:40:11 CST" name="Test" finished-at="2025-02-22T17:42:35 CST" duration-ms="144421">
+      <class name="checkout1.CheckoutItems">
+        <test-method signature="loginTest1()[pri:1, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:41:25 CST" name="loginTest1" finished-at="2025-02-22T17:41:27 CST" duration-ms="1778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+        <test-method signature="setlogin()[pri:1, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:41:27 CST" name="setlogin" finished-at="2025-02-22T17:41:31 CST" duration-ms="3648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setlogin -->
+        <test-method signature="backpack()[pri:20, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:41:31 CST" name="backpack" finished-at="2025-02-22T17:41:35 CST" duration-ms="4352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backpack -->
+        <test-method signature="addtocartbpack()[pri:22, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:41:35 CST" name="addtocartbpack" finished-at="2025-02-22T17:41:38 CST" duration-ms="3096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartbpack -->
+        <test-method signature="backprod()[pri:23, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:41:38 CST" name="backprod" finished-at="2025-02-22T17:41:41 CST" duration-ms="3142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backprod -->
+        <test-method signature="bikelight()[pri:24, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:41:41 CST" name="bikelight" finished-at="2025-02-22T17:41:47 CST" duration-ms="5126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikelight -->
+        <test-method signature="addtocartlight()[pri:25, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:41:47 CST" name="addtocartlight" finished-at="2025-02-22T17:41:50 CST" duration-ms="3086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartlight -->
+        <test-method signature="backprodl()[pri:26, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:41:50 CST" name="backprodl" finished-at="2025-02-22T17:41:54 CST" duration-ms="4095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backprodl -->
+        <test-method signature="boltTshirt()[pri:27, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:41:54 CST" name="boltTshirt" finished-at="2025-02-22T17:42:05 CST" duration-ms="11206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- boltTshirt -->
+        <test-method signature="backprod2()[pri:28, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:42:05 CST" name="backprod2" finished-at="2025-02-22T17:42:05 CST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backprod2 -->
+        <test-method signature="redTshirt()[pri:29, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:42:05 CST" name="redTshirt" finished-at="2025-02-22T17:42:16 CST" duration-ms="11198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redTshirt -->
+        <test-method signature="cartIcon()[pri:39, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:42:16 CST" name="cartIcon" finished-at="2025-02-22T17:42:19 CST" duration-ms="3074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartIcon -->
+        <test-method signature="checkout()[pri:40, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:42:19 CST" name="checkout" finished-at="2025-02-22T17:42:22 CST" duration-ms="3120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method signature="checkoutInfo()[pri:41, instance:checkout1.CheckoutItems@79079097]" started-at="2025-02-22T17:42:22 CST" name="checkoutInfo" finished-at="2025-02-22T17:42:35 CST" duration-ms="12490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutInfo -->
+      </class> <!-- checkout1.CheckoutItems -->
+      <class name="demo1.UrlTest">
+        <test-method is-config="true" signature="basetest()[pri:0, instance:demo1.UrlTest@6ed3ccb2]" started-at="2025-02-22T17:40:11 CST" name="basetest" finished-at="2025-02-22T17:40:13 CST" duration-ms="2213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basetest -->
+        <test-method signature="testurl()[pri:0, instance:demo1.UrlTest@6ed3ccb2]" started-at="2025-02-22T17:40:13 CST" name="testurl" finished-at="2025-02-22T17:40:20 CST" duration-ms="6701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testurl -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demo1.UrlTest@6ed3ccb2]" started-at="2025-02-22T17:40:20 CST" name="teardown" finished-at="2025-02-22T17:40:20 CST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- demo1.UrlTest -->
+      <class name="login1.Products_Cart_Items">
+        <test-method signature="loginTest1()[pri:1, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:35 CST" name="loginTest1" finished-at="2025-02-22T17:40:36 CST" duration-ms="1869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:36 CST" name="teardown" finished-at="2025-02-22T17:40:36 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="setlogin()[pri:1, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:36 CST" name="setlogin" finished-at="2025-02-22T17:40:40 CST" duration-ms="3555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setlogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:40 CST" name="teardown" finished-at="2025-02-22T17:40:40 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="backpack()[pri:20, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:40 CST" name="backpack" finished-at="2025-02-22T17:40:44 CST" duration-ms="4279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backpack -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:44 CST" name="teardown" finished-at="2025-02-22T17:40:44 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="addtocartbpack()[pri:22, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:44 CST" name="addtocartbpack" finished-at="2025-02-22T17:40:47 CST" duration-ms="3096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartbpack -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:47 CST" name="teardown" finished-at="2025-02-22T17:40:47 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="backprod()[pri:23, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:47 CST" name="backprod" finished-at="2025-02-22T17:40:50 CST" duration-ms="3119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backprod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:50 CST" name="teardown" finished-at="2025-02-22T17:40:50 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="bikelight()[pri:24, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:50 CST" name="bikelight" finished-at="2025-02-22T17:40:56 CST" duration-ms="5121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikelight -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:56 CST" name="teardown" finished-at="2025-02-22T17:40:56 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="addtocartlight()[pri:25, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:56 CST" name="addtocartlight" finished-at="2025-02-22T17:40:59 CST" duration-ms="3096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartlight -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:59 CST" name="teardown" finished-at="2025-02-22T17:40:59 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="backprodl()[pri:26, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:40:59 CST" name="backprodl" finished-at="2025-02-22T17:41:03 CST" duration-ms="4115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backprodl -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:41:03 CST" name="teardown" finished-at="2025-02-22T17:41:03 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="boltTshirt()[pri:27, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:41:03 CST" name="boltTshirt" finished-at="2025-02-22T17:41:14 CST" duration-ms="11219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- boltTshirt -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:41:14 CST" name="teardown" finished-at="2025-02-22T17:41:14 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="backprod2()[pri:28, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:41:14 CST" name="backprod2" finished-at="2025-02-22T17:41:14 CST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backprod2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:41:14 CST" name="teardown" finished-at="2025-02-22T17:41:14 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="redTshirt()[pri:29, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:41:14 CST" name="redTshirt" finished-at="2025-02-22T17:41:25 CST" duration-ms="11256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redTshirt -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.Products_Cart_Items@3bf7ca37]" started-at="2025-02-22T17:41:25 CST" name="teardown" finished-at="2025-02-22T17:41:25 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- login1.Products_Cart_Items -->
+      <class name="demo1.Setup">
+        <test-method is-config="true" signature="basetest()[pri:0, instance:demo1.Setup@7c6908d7]" started-at="2025-02-22T17:40:20 CST" name="basetest" finished-at="2025-02-22T17:40:21 CST" duration-ms="1580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basetest -->
+        <test-method is-config="true" signature="setbrowser()[pri:0, instance:demo1.Setup@7c6908d7]" started-at="2025-02-22T17:40:21 CST" name="setbrowser" finished-at="2025-02-22T17:40:22 CST" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setbrowser -->
+        <test-method signature="setlogin()[pri:1, instance:demo1.Setup@7c6908d7]" started-at="2025-02-22T17:40:22 CST" name="setlogin" finished-at="2025-02-22T17:40:26 CST" duration-ms="3544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setlogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demo1.Setup@7c6908d7]" started-at="2025-02-22T17:40:26 CST" name="teardown" finished-at="2025-02-22T17:40:29 CST" duration-ms="3287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- demo1.Setup -->
+      <class name="login1.LoginValid1">
+        <test-method signature="loginTest1()[pri:1, instance:login1.LoginValid1@3c9754d8]" started-at="2025-02-22T17:40:29 CST" name="loginTest1" finished-at="2025-02-22T17:40:31 CST" duration-ms="2068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.LoginValid1@3c9754d8]" started-at="2025-02-22T17:40:31 CST" name="teardown" finished-at="2025-02-22T17:40:31 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="setlogin()[pri:1, instance:login1.LoginValid1@3c9754d8]" started-at="2025-02-22T17:40:31 CST" name="setlogin" finished-at="2025-02-22T17:40:35 CST" duration-ms="3535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setlogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login1.LoginValid1@3c9754d8]" started-at="2025-02-22T17:40:35 CST" name="teardown" finished-at="2025-02-22T17:40:35 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- login1.LoginValid1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
