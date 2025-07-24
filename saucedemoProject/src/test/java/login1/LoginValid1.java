@@ -45,7 +45,7 @@ public class LoginValid1 extends MainTest {
 				{
 //close the browser
 		//driver.close();
-		//driver.quit();					
+		driver.quit();					
 			}
 		
 	}
